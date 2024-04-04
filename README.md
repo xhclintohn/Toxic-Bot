@@ -20,8 +20,7 @@
   </p>
   <p align="center"> 
   <a href="https://github.com/xhclintohn/Toxic-Bot/stargazers">
-    <img src="https://img.shields.io/github/stars/xhclintohn/Toxic-Bot?style=social">
-
+    
 
 <p align="center"> 
   Hi there, I am "Toxic Bot" a simple WhatsApp bot made by Clinton to do everything that is possible on WhatsApp based on WhatsApp Multi Device(MD) Support.
