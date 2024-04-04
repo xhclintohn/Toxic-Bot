@@ -1,9 +1,7 @@
 <p align="center">
 <a href="https://telegra.ph/file/3fc1e4f4ea4e38b83f654.jpg"><img src="https://telegra.ph/file/3fc1e4f4ea4e38b83f654.jpg"</a>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=964B00&width=456&lines=Toxic+WABOT+MD;CREATED+BY+𝐱𝐡_𝐜𝐥𝐢𝐧𝐭𝐨𝐧" alt="Typing SVG" /></a>
-<img src="https://img.shields.io/badge/rating-★★★★★-brightgreen"/>
-<img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges"/>
-<a href="https://github.com/xhclinton/Toxic-Bot"><img src="https://img.shields.io/github/watchers/xhclintohn/Toxic-Bot.svg"</a>
+ href="https://github.com/xhclinton/Toxic-Bot"><img src="https://img.shields.io/github/watchers/xhclintohn/Toxic-Bot.svg"</a>
 <a href="https://github.com/xhclinton/Toxic-Bot"><img src="https://img.shields.io/github/stars/xhclintohn/Toxic-Bot.svg"</a>
 <a href="https://github.com/xhclintohn/Toxic-Bot"><img src="https://img.shields.io/github/forks/xhclintohn/Toxic-Bot.svg"</a>
 <a href="https://github.com/xhclintohn/Toxic-Bot"><img src="https://img.shields.io/github/repo-size/xhclintohn/Toxic-Bot.svg"></a>
@@ -46,7 +44,7 @@
 ## ``Bot Support Groups``
 <p align="center">
 
-<a href="https://chat.whatsapp.com/Fo7pSPtfMqBuieK4aAJ"><img src="https://img.shields.io/badge/Join support group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://chat.whatsapp.com/FA021PHVLb3AUNwuIDbN0B"><img src="https://img.shields.io/badge/Join support group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 </p>
 
@@ -60,7 +58,7 @@
 
 ## ```Pair with WhatsApp```
 <br>
-<a href='https://replit.com/@xhclinton/Toxic-Pairing-v1' target="_blank"><img alt='SCAN QR' src='https://img.shields.io/badge/Scan qr--100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=yellow&color=orange'/></a>
+<a href='https://replit.com/@xhclinton/Toxic-Pairing-v1' target="_blank"><img alt='SCAN QR' src='https://img.shields.io/badge/Scan qr--100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=orange'/></a>
 
   
   
