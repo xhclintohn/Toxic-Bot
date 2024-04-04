@@ -4,7 +4,7 @@ let path = require('path')
 let fs = require('fs')
 let package = require('./package.json')
 const moment = require("moment-timezone")
-const time = moment.tz('Asia/Jakarta').format("HH:mm:ss")
+const time = moment.tz('Africa/Nairobi').format("HH:mm:ss")
 const CFonts = require('cfonts')
 const Readline = require('readline')
 const yargs = require('yargs/yargs')
@@ -12,12 +12,12 @@ const { color } = require('./lib/color')
 const { say } = CFonts
 const rl = Readline.createInterface(process.stdin, process.stdout)
 
-say('KIKU\nMD', {
+say('Toxic\nMD', {
   font: 'block',
   align: 'center',
   colors: ['blue']
 })
-say(`Simple Whatsapp Bot By @Kemii`, {
+say(`Simple Whatsapp Bot By @𝐱𝐡_𝐜𝐥𝐢𝐧𝐭𝐨𝐧`, {
   font: 'console',
   align: 'center',
   colors: ['green']
@@ -37,17 +37,17 @@ function start(file) {
     align: 'center',
     colors: ['magenta']
   })
-  say('🌎 MEMUAT SOURCE...', {
+  say('🌎 C Loading SOURCE...', {
     font: 'console',
     align: 'center',
     colors: ['green']
   })
-  say('📑 MEMUAT PLUGINS...', {
+  say('📑 Installing PLUGINS...', {
     font: 'console',
     align: 'center',
     colors: ['green']
   })
-  say('✅ DONE !', {
+  say('✅ DONE follow me on Instagram as xh_clinton!', {
     font: 'console',
     align: 'center',
     colors: ['green']
