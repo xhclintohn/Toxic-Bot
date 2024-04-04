@@ -17,64 +17,62 @@ Bot chat WhatsApp adalah program kecerdasan buatan AI (artificial intelligence) 
 <a href="http://www.instagram.com/thiskemii"><img src="https://img.shields.io/badge/Instagram-30302f?style=flat&logo=instagram"></a>
 </details><details close="close"><summary>Tutorial Menginstall <b>Kiku - Wabot</b></summary>
 
-- `Select The Language`
 
-`you can choose Indonesian or English`
-<details close="close">
-<summary><i><b>Indonesian</b></i></summary>
+#Whatsapp Bot
 
-***
-### 1. Install Aplikasi [Termux](https://f-droid.org/repo/com.termux_118.apk)
-> Setelah Install Aplikasi Termux, Silahkan Salin Teks Dibawah, Setelah Disalin Tempel Di Aplikasi Termux.
-```
-pkg update -y;pkg upgrade -y;pkg install nodejs -y;pkg install git -y;git clone https://github.com/Takashi-Kemii/Kiku.git && cd Kiku;rm -rf session.json;node index
-```
-### 2. Pairing Code
-> Setelah Menempel Nomer Kalian Ke Termux/Panel, Nanti Akan Muncul Code Pairingnya, Kalian Bisa Masukan Code Tersebut Di Whatsapp Kalian.
-### 3. Catatan
-> Saya Sarankan Jangan Menggunakan Whatsapp/Nomor Pribadi
-***
-</details><details close="close"><summary><i><b>English</b></i></summary>
 
-***
-### 1. Install The [Termux](https://f-droid.org/repo/com.termux_118.apk) App
-> After Installing The Termux Application, Please Copy The Text Below, After Copying Paste In The Termux Application.
-```
-pkg update -y;pkg upgrade -y;pkg install nodejs -y;pkg install git -y;git clone https://github.com/Takashi-Kemii/Kiku.git && cd Kiku;rm -rf session.json;node index
-```
-### 2. Pairing Code
-> After pasting your number into Termux/Panel, the pairing code will appear, you can enter the code in your WhatsApp.
-### 3. Note
-> I Suggest Don't Use Whatsapp/Personal Number
-***
-</details></details>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"/>
+ href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Impact&size=50&pause=1000&color=000000&center=true&width=910&height=100&lines=THIS IS+Toxic-AI ;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+THE TEAM Toxic ;PUBLIC+RELESED+DATE;2023/08/21;." alt="Typing SVG" /></a>
+  </p>
+  <p align="center"> 
+  <a href="https://github.com/xhclintohn/Toxic-AI/stargazers">
+    <img src="https://img.shields.io/github/stars/xhclintohn/Toxic-AI?style=social">
 
-### Features
-- [x] Bug
-- [x] Buggc
-- [x] Jadibot
-- [x] Trade
-- [x] Sosmed
-- [x] GroupSetting
-- [x] Kick & Add
-- [x] Promote & Demote
-- [x] Chat & Call
-- [x] Public & Private
-- [x] Restart & Shutdown
-- [ ] And others
 
-### Changelogs
-<details open="open"><summary>Added <b>New Features</b></summary>
+<p align="center"> 
+  Hi there, I am "Toxic AI" a simple WhatsApp bot made by Clinton to do everything that is possible on WhatsApp based on WhatsApp Multi Device(MD) Support.
+</p>
+</br>
 
-```
-.sosmed (fake sosmed)
-.jadibot (numpang bot)
-.ai (openai module)
-.dalle3 (create image)
-.bug (bug number)
-.buggc (bug group)
-.fix (fixed all error)
-.trade (ongoing)
-```
-</details>
+### ✧✧ This bot is still under development so if you want to recode/modify it, pls check this main repo once in 3 days because i am continuously debugging it and making major changes in it.
+</br>
+
+## ```Connect With Me```
+
+<p align="center">
+
+<a href="https://api.whatsapp.com/send?phone=254735342808&text=𝘩𝘦𝘭𝘭𝘰+Clinton"><img src="https://img.shields.io/badge/Contact dev Clinton-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+
+</p>
+
+
+
+## ```Bot Support Groups```
+<p align="center">
+
+<a href="https://chat.whatsapp.com/FoS7pSPtfMqBuieK4aAJ"><img src="https://img.shields.io/badge/Join support group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+
+</p>
+
+
+# Setup For Deployment 
+
+- FORK THE REPOSITORY
+   <br>
+<a href="https://github.com/xhclintohn/Whatsapp-Bot/fork"><img title="WhatsApp bot" src="https://img.shields.io/badge/FORK TOXIC-1-h?color=black&style=for-the-badge&logo=stackshare"></a>
+
+
+## ` Pair with WhatsApp`
+<br>
+<a href='https://replit.com/@xhclinton/Toxic-Pairing-v1' target="_blank"><img alt='SCAN QR' src='https://img.shields.io/badge/Scan qr--100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=blue'/></a>
+
+  
+  
+
+
+
+## 
+- After getting your /creds.json upload it to /dreaded1 folder then
+deploy on your favorite platform, enjoy
+
+
+   
