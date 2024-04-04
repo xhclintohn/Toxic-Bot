@@ -9,7 +9,6 @@
 <a href="https://github.com/Takashi-Kemii/Kiku"><img src="https://img.shields.io/github/repo-size/Takashi-Kemii/Kiku.svg"></a>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"/>
 
-Bot chat WhatsApp adalah program kecerdasan buatan AI (artificial intelligence) yang dimiliki oleh WhatsApp Business API. Sistem bot ini mampu berperan sebagai asisten virtual yang membalas setiap pesan WhatsApp secara otomatis dalam hitungan detik.
 
 
 <summary>Bot Ini Dikembangkan Oleh <b>Takashi Kemii</b></summary>
