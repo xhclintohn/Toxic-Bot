@@ -3,21 +3,19 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=964B00&width=456&lines=Toxic+WABOT+MD;CREATED+BY+𝐱𝐡_𝐜𝐥𝐢𝐧𝐭𝐨𝐧" alt="Typing SVG" /></a>
 <img src="https://img.shields.io/badge/rating-★★★★★-brightgreen"/>
 <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges"/>
-<a href="https://github.com/Takashi-Kemii/Kiku"><img src="https://img.shields.io/github/watchers/Takashi-Kemii/Kiku.svg"</a>
-<a href="https://github.com/Takashi-Kemii/Kiku"><img src="https://img.shields.io/github/stars/Takashi-Kemii/Kiku.svg"</a>
-<a href="https://github.com/Takashi-Kemii/Kiku"><img src="https://img.shields.io/github/forks/Takashi-Kemii/Kiku.svg"</a>
-<a href="https://github.com/Takashi-Kemii/Kiku"><img src="https://img.shields.io/github/repo-size/Takashi-Kemii/Kiku.svg"></a>
+<a href="https://github.com/xhclinton/Toxic-Bot"><img src="https://img.shields.io/github/watchers/xhclinton/Toxic-Bot.svg"</a>
+<a href="https://github.com/xhclinton/Toxic-Bot"><img src="https://img.shields.io/github/stars/xhclinton/Toxic-Bot.svg"</a>
+<a href="https://github.com/xhclinton/Toxic-Bot"><img src="https://img.shields.io/github/forks/xhclinton/Toxic-Bot.svg"</a>
+<a href="https://github.com/xhclinton/Toxic-Bot"><img src="https://img.shields.io/github/repo-size/xhclinton/Toxic-Bot.svg"></a>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"/>
 
 
 
-<summary>Bot Ini Dikembangkan Oleh <b>Takashi Kemii</b></summary>
-<a href="http://wa.me/6288983236739"><img src="https://img.shields.io/badge/Whatsapp-30302f?style=flat&logo=whatsapp"></a>
-<a href="http://www.instagram.com/thiskemii"><img src="https://img.shields.io/badge/Instagram-30302f?style=flat&logo=instagram"></a>
+<summary>Toxic-Bot" " <b>By 𝐱𝐡_𝐜𝐥𝐢𝐧𝐭𝐨𝐧</b></summary>
+<a href="http://wa.me/254735342808"><img src="https://img.shields.io/badge/Whatsapp-30302f?style=flat&logo=whatsapp"></a>
+<a href="http://www.instagram.com/mr.xh_clusive"><img src="https://img.shields.io/badge/Instagram-30302f?style=flat&logo=instagram"></a>
 
 
-
-#Whatsapp Bot
 
 
  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Impact&size=50&pause=1000&color=000000&center=true&width=910&height=100&lines=THIS IS+Toxic-AI ;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+THE TEAM Toxic ;PUBLIC+RELESED+DATE;2023/08/21;." alt="Typing SVG" /></a>
