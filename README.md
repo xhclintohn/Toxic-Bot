@@ -3,11 +3,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=964B00&width=456&lines=Toxic+WABOT+MD;CREATED+BY+𝐱𝐡_𝐜𝐥𝐢𝐧𝐭𝐨𝐧" alt="Typing SVG"
 
 
- src="https://img.shields.io/github/watchers/xhclintohn/Toxic-Bot.svg"</a>
-<a href="https://github.com/xhclinton/Toxic-Bot"><img src="https://img.shields.io/github/stars/xhclintohn/Toxic-Bot.svg"</a>
-<a href="https://github.com/xhclintohn/Toxic-Bot"><img src="https://img.shields.io/github/forks/xhclintohn/Toxic-Bot.svg"</a>
-<a href="https://github.com/xhclintohn/Toxic-Bot"><img src="https://img.shields.io/github/repo-size/xhclintohn/Toxic-Bot.svg"></a>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"/>
+ >
 
 
 
