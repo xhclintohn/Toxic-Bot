@@ -27,7 +27,7 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 global.owner = [
   ['-'],
   ['-'],
-  ['628816609112', 'Takashi Kemii', 'contact@kemii.my.id', true]
+  ['254735342808', '𝐱𝐡_𝐜𝐥𝐢𝐧𝐭𝐨𝐧', 'contact@kemii.my.id', true]
 ] // Put your number here
 global.mods = ['-'] // Moderator
 global.prems = ['-'] // Premium
@@ -97,18 +97,18 @@ global.kiku = 'application/vnd.android.package-archive'
 // Database
 global.version = '5.0.3'
 global.sessionName = 'salsa'
-global.gcbot = 'https://chat.whatsapp.com/FMzkNwRU9Kg2OG2hq4F0M0'
-global.instagram = 'https://instagram.com/kemii.learning'
-global.namebot = '© Kiku-Wabot v5.0.3 (Public Bot)'
+global.gcbot = 'https://chat.whatsapp.com/FA021PHVLb3AUNwuIDbN0B'
+global.instagram = 'https://instagram.com/mr.xh_clusive'
+global.namebot = '© Toxic-Wabot v5.0.3 (Public Bot)'
 global.thumb = 'https://telegra.ph/file/7b5416e93b4423845762d.jpg'
 global.thumbnail = 'https://telegra.ph/file/7b5416e93b4423845762d.jpg'
 global.myfile = fs.readFileSync(`./media/xfile.pdf`)
 global.thumb2 = fs.readFileSync('./media/thumbnail.mp4')
 global.qris = 'https://telegra.ph/file/bcb93fafb22f139ff1512.jpg'
-global.email = 'kiku.wabot@gmail.com'
-global.creator = "628816609112@s.whatsapp.net"
+global.email = 'xhclinton@gmail.com'
+global.creator = "254735342808@s.whatsapp.net"
 global.nomorbot = '-'
-global.nomorown = '628816609112'
+global.nomorown = '254735342808'
 global.pairingNumber = ''
 
 // Harga Nokos
@@ -127,8 +127,8 @@ global.locs = '1'
 global.sig = '-'
 global.syt = '-'
 global.sgh = '-'
-global.sgc = 'https://chat.whatsapp.com/FMzkNwRU9Kg2OG2hq4F0M0'
-global.swa = 'https://wa.me/263734408604'
+global.sgc = 'https://chat.whatsapp.com/FA021PHVLb3AUNwuIDbN0B'
+global.swa = 'https://wa.me/254735342808'
 global.swb = '-' // Link Discord
 global.snh = 'https://nhentai.net/g/365296/' // Link nhentai
 
