@@ -11,7 +11,7 @@
 
 Bot chat WhatsApp adalah program kecerdasan buatan AI (artificial intelligence) yang dimiliki oleh WhatsApp Business API. Sistem bot ini mampu berperan sebagai asisten virtual yang membalas setiap pesan WhatsApp secara otomatis dalam hitungan detik.
 
-<details close="close">
+
 <summary>Bot Ini Dikembangkan Oleh <b>Takashi Kemii</b></summary>
 <a href="http://wa.me/6288983236739"><img src="https://img.shields.io/badge/Whatsapp-30302f?style=flat&logo=whatsapp"></a>
 <a href="http://www.instagram.com/thiskemii"><img src="https://img.shields.io/badge/Instagram-30302f?style=flat&logo=instagram"></a>
