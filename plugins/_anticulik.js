@@ -3,7 +3,7 @@ let handler = m => m
 
 handler.all = async function (m, { isBlocked }) {
     if (isBlocked) return
-    if ((m.mtype === 'groupInviteMessage' || m.text.startsWith('Undangan untuk bergabung') || m.text.startsWith('Invitation to join') || m.text.startsWith('Buka tautan ini')) && !m.isBaileys && !m.isGroup) {
+    if ((m.mtype === 'groupInviteMessage' || m.text.startsWith('Invitation to Join') || m.text.startsWith('Invitation to join') || m.text.startsWith('Open this link')) && !m.isBaileys && !m.isGroup) {
     let teks = `Invite Group
 • 30 Day / Rp 2k
 • Permanen  / Rp 5k
