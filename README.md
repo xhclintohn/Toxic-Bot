@@ -50,7 +50,7 @@
 
 ## ```FORK THE REPOSITORY```
    <br>
-<a href="https://github.com/xhclintohn/Whatsapp-Bot/fork"><img title="WhatsApp bot" src="https://img.shields.io/badge/FORK TOXIC-1-h?color=black&style=for-the-badge&logo=stackshare"></a>
+<a href="https://github.com/xhclintohn/Toxic-Bot/fork"><img title="WhatsApp bot" src="https://img.shields.io/badge/FORK TOXIC-1-h?color=black&style=for-the-badge&logo=stackshare"></a>
 
 
 ## ```Pair with WhatsApp```
