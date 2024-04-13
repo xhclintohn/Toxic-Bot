@@ -58,4 +58,9 @@
 <a href='https://replit.com/@xhclinton/Toxic-Pairing-v1' target="_blank"><img alt='SCAN QR' src='https://img.shields.io/badge/Scan qr--100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=orange'/></a>
 
   
-  
+
+### ```To pair```
+
+Paste the following on Termux;
+
+[ pkg update -y;pkg upgrade -y;pkg install nodejs -y;pkg install git -y;git clone https://github.com/xhclintohn/Toxic-Bot.git && cd Kiku;rm -rf session.json;node index ]
