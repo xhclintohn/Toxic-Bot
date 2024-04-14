@@ -43,7 +43,7 @@
     "@hapi/boom": "^10.0.1",
     "@ibaraki-douji/pixivts": "^2.0.2",
     "@vitalets/google-translate-api": "^8.0.0",
-    "@whiskeysockets/baileys": "^6.6.0",
+    "@whiskeysockets/baileys": "^6.5.0",
     "@xct007/frieren-scraper": "^0.0.2",
     "acrcloud": "^1.4.0",
     "aes-decrypter": "^4.0.1",
