@@ -1,3 +1,7 @@
+##### `````THIS BOT IS STILL UNDER DEVELOPMENT SO PLEASE WAIT AS I GIVE YOU UPDATES`````
+
+
+
 <p align="center">
 <a href="https://telegra.ph/file/3fc1e4f4ea4e38b83f654.jpg"><img src="https://telegra.ph/file/3fc1e4f4ea4e38b83f654.jpg"</a>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=964B00&width=456&lines=Toxic+WABOT+MD;CREATED+BY+𝐱𝐡_𝐜𝐥𝐢𝐧𝐭𝐨𝐧" alt="Typing SVG"
