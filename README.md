@@ -12,7 +12,7 @@
 
 
 <summary>Toxic-Bot" " <b>By 𝐱𝐡_𝐜𝐥𝐢𝐧𝐭𝐨𝐧</b></summary>
-<a href="http://wa.me/254735342808"><img src="https://img.shields.io/badge/Whatsapp-30302f?style=flat&logo=whatsapp"></a>
+<a href="http://wa.me/254101981059"><img src="https://img.shields.io/badge/Whatsapp-30302f?style=flat&logo=whatsapp"></a>
 <a href="http://www.instagram.com/mr.xh_clusive"><img src="https://img.shields.io/badge/Instagram-30302f?style=flat&logo=instagram"></a>
 
 
@@ -36,7 +36,7 @@
 
 <p align="center">
 
-<a href="https://api.whatsapp.com/send?phone=254735342808&text=𝘩𝘦𝘭𝘭𝘰+Clinton"><img src="https://img.shields.io/badge/Contact dev Clinton-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://api.whatsapp.com/send?phone=254101981059&text=𝘩𝘦𝘭𝘭𝘰+Clinton"><img src="https://img.shields.io/badge/Contact dev Clinton-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 </p>
 
