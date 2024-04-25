@@ -59,7 +59,7 @@
 
 ## ```Pair with WhatsApp```
 <br>
-<a href='https://replit.com/@xhclinton/Toxic-Pairing-v1' target="_blank"><img alt='SCAN QR' src='https://img.shields.io/badge/Scan qr--100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=orange'/></a>
+<a href='https://Toxicpair.com' target="_blank"><img alt='SCAN QR' src='https://img.shields.io/badge/Scan qr--100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=orange'/></a>
 
   
 
