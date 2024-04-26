@@ -75,11 +75,11 @@ process.env['NODE_TLS_REJECT_UNAUTHORIZED'] = 0
 const spack = fs.readFileSync("lib/exif.json")
 const stickerpack = JSON.parse(spack)
 if (stickerpack.spackname == '') {
-  var sticker_name = 'Kiku - Wabot'
-  var sticker_author = 'Kemii Elisabeth'
+  var sticker_name = 'Toxic - Wabot'
+  var sticker_author = 'Toxc'
 } else {
-  var sticker_name = 'Kiku - Wabot'
-  var sticker_author = 'Kemii Elisabeth'
+  var sticker_name = 'Toxic- Wabot'
+  var sticker_author = 'Toxc'
 }
 
 const file_exif = "lib/exif.json"
@@ -99,7 +99,7 @@ global.version = '5.0.3'
 global.sessionName = 'salsa'
 global.gcbot = 'https://chat.whatsapp.com/FA021PHVLb3AUNwuIDbN0B'
 global.instagram = 'https://instagram.com/mr.xh_clusive'
-global.namebot = '© Toxic-Wabot v5.0.3 (Public Bot)'
+global.namebot = '© Toxic-Wabot v1.0.0 (Public Bot)'
 global.thumb = 'https://telegra.ph/file/7b5416e93b4423845762d.jpg'
 global.thumbnail = 'https://telegra.ph/file/7b5416e93b4423845762d.jpg'
 global.myfile = fs.readFileSync(`./media/xfile.pdf`)
