@@ -4,8 +4,8 @@ let moment = require('moment-timezone')
 
 // Waktu
 let wibh = moment.tz('Asia/Jakarta').format('HH')
-    let wibm = moment.tz('Asia/Jakarta').format('mm')
-    let wibs = moment.tz('Asia/Jakarta').format('ss')
+    let wibm = moment.tz('Africa/Nairobi').format('mm')
+    let wibs = moment.tz('Africa/Nairobi').format('ss')
     let wktuwib = `${wibh}:${wibm}:${wibs}`
 
 // Hari Tanggal
