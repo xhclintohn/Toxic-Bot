@@ -25,7 +25,7 @@
     
 
 <p align="center"> 
-  Hi there, I am "Toxic Bot" a simple WhatsApp bot made by Clinton to do everything that is possible on WhatsApp based on WhatsApp Multi Device(MD) Support.     ''' pkg update -y;pkg upgrade -y;pkg install nodejs -y;pkg install git -y;git clone https://github.com/xhclinton/Toxic-Bot.git && cd Kiku;rm -rf session.json;node index.
+  Hi there, I am "Toxic Bot" a simple WhatsApp bot made by Clinton to do everything that is possible on WhatsApp based on WhatsApp Multi Device(MD) Please Support. 
 </p>
 </br>
 
