@@ -52,7 +52,7 @@
     "api-dylux": "^1.6.5",
     "async": "^3.2.1",
     "awesome-phonenumber": "^2.70.0",
-    "axios": "^0.24.0",
+    "axios": "^1.7.2",
     "betabotz-tools": "^0.0.6",
     "base64-to-image": "^1.0.2",
     "brainly-scraper": "^1.0.3",
