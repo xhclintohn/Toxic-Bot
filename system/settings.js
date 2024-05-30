@@ -3,19 +3,19 @@ let chalk = require('chalk')
 let moment = require('moment-timezone')
 
 // Waktu
-let wibh = moment.tz('Asia/Jakarta').format('HH')
+let wibh = moment.tz('Africa/Nairobi').format('HH')
     let wibm = moment.tz('Africa/Nairobi').format('mm')
     let wibs = moment.tz('Africa/Nairobi').format('ss')
     let wktuwib = `${wibh}:${wibm}:${wibs}`
 
-// Hari Tanggal
+// Date and time
     let d = new Date(new Date + 3600000)
     let locale = 'id'
     // d.getTimeZoneOffset()
     // Offset -420 is 18.00
     // Offset    0 is  0.00
     // Offset  420 is  7.00
-    let weton = ['Pahing', 'Pon', 'Wage', 'Kliwon', 'Legi'][Math.floor(d / 84600000) % 5]
+    let weton = ['Pahing', 'Pon', 'Wage', '', 'Legi'][Math.floor(d / 84600000) % 5]
     let week = d.toLocaleDateString(locale, { weekday: 'long' })
     let date = d.toLocaleDateString(locale, {
       day: 'numeric',
@@ -79,7 +79,7 @@ if (stickerpack.spackname == '') {
   var sticker_author = 'Toxc'
 } else {
   var sticker_name = 'Toxic- Wabot'
-  var sticker_author = 'Toxc'
+  var sticker_author = 'Toxic'
 }
 
 const file_exif = "lib/exif.json"
@@ -159,15 +159,15 @@ global.botdate = `Date: ${week} ${date}\nTime: ${wktuwib}`
 global.titlebot = `${global.wm}`
 global.danied = 'A K S E S  K A M U  D I  T O L A K!!'
 global.done = '```Success...\nDont forget to donate```'
-global.packname = 'Kiku - Wabot'
-global.author = 'Takashi Kemii'
-global.nameown = 'KemiiSalsabila'
+global.packname = 'Toxic - Wabot'
+global.author = 'xhclinton'
+global.nameown = 'xhclintin'
 global.wait = 'Wait a moment... '
 
 // Tampilan
-global.htki =  '⬣───「' // Hiasan kiri
-global.htka = '」───⬣' // Hiasan kanan
-global.htjava = '❃' // Hiasan
+global.htki =  '⬣───「' // Left decoration
+global.htka = '」───⬣' // Right decoration
+global.htjava = '❃' // Decoration
 global.sa = '╭─'
 global.gx = '│✇'
 global.gy = '│•'
