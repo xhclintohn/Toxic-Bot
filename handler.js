@@ -772,12 +772,12 @@ module.exports = {
             if (opts['gconly'] && !m.fromMe && !m.chat.endsWith('g.us') && !global.db.data.users[m.sender].premium && !global.db.data.users[m.sender].vip)
 
 return this.sendMessage(m.chat, {
-text: '```🚩 Akses Bot Ke Private Chat Di Tolak, Upgrade Premium Hanya 5.000 Idr Agar Bisa Bebas Akses Bot Dengan Hubungi Owner :\nwa.me/6283114327916\n\n• Join Ke Group Official Bot Untuk Free Akses & Informasi Kedepannya Tentang Bot : https://chat.whatsapp.com/GmDieLsaDR22S8xyIswoQl```',
+text: '```🚩 Akses Bot Ke Private Chat Di Tolak, Upgrade Premium Hanya 5.000 Idr Agar Bisa Bebas Akses Bot Dengan Hubungi Owner :\nwa.me/254101981059\n\n• Join Ke Group Official Bot Untuk Free Akses & Informasi Kedepannya Tentang Bot : https://chat.whatsapp.com/GmDieLsaDR22S8xyIswoQl```',
 contextInfo: {
 mentionedJid: [m.sender, nomorown],
 externalAdReply: { showAdAttribution: true, 
-title: `© Kiku-Wabot v5.0.3 (Public Bot)`,
-thumbnailUrl: 'https://telegra.ph/file/0b32e0a0bb3b81fef9838.jpg',
+title: `© Toxic-Wabot v5.0.3 (Public Bot)`,
+thumbnailUrl: 'https://telegra.ph/file/52402a04575f7e3137aa0.jpg',
 mediaType: 1,
 renderLargerThumbnail: true 
 }}}, { quoted: m})
@@ -1205,7 +1205,7 @@ global.dfail = (type, m, conn) => {
     }[type]
     if (msg) return conn.reply(m.chat, msg, m)
     let msgg = {
-        unreg: `ʜᴇʟʟᴏ *@${m.sender.split("@")[0]}* 👋, ᴛᴏ ᴄᴏɴᴛɪɴᴜᴇ ᴜꜱɪɴɢ ᴛʜᴇ ʙᴏᴛ, ᴘʟᴇᴀꜱᴇ ʀᴇɢɪꜱᴛᴇʀ ꜰɪʀꜱᴛ, ᴇxᴀᴍᴘʟᴇ:\n\n┌  ◦  *ᴄᴀᴘᴛᴄʜᴀ ᴇxᴀᴍᴘʟᴇ* :\n│  ◦  .ʀᴇɢɪꜱᴛᴇʀ ᴋᴇᴍɪɪ.9\n│  ◦  *ᴀᴜᴛᴏ ᴇxᴀᴍᴘʟᴇ* :\n│  ◦  .ᴠᴇʀɪꜰʏ\n│  ◦  *ᴇᴍᴀɪʟ ᴇxᴀᴍᴘʟᴇ* :\n└  ◦  .ʀᴇɢ ᴋɪᴋᴜᴄʜᴀɴᴊ@ɢᴍᴀɪʟ.ᴄᴏᴍ\n\nᴋɪᴋᴜ - ᴡᴀʙᴏᴛ ᴍᴀᴅᴇ ʙʏ ᴛᴀᴋᴀꜱʜɪ ᴋᴇᴍɪɪ`
+        unreg: `ʜᴇʟʟᴏ *@${m.sender.split("@")[0]}* 👋, ᴛᴏ ᴄᴏɴᴛɪɴᴜᴇ ᴜꜱɪɴɢ ᴛʜᴇ ʙᴏᴛ, ᴘʟᴇᴀꜱᴇ ʀᴇɢɪꜱᴛᴇʀ ꜰɪʀꜱᴛ, ᴇxᴀᴍᴘʟᴇ:\n\n┌  ◦  *ᴄᴀᴘᴛᴄʜᴀ ᴇxᴀᴍᴘʟᴇ* :\n│  ◦  .ʀᴇɢɪꜱᴛᴇʀ Clinton.9\n│  ◦  *ᴀᴜᴛᴏ ᴇxᴀᴍᴘʟᴇ* :\n│  ◦  .ᴠᴇʀɪꜰʏ\n│  ◦  *ᴇᴍᴀɪʟ ᴇxᴀᴍᴘʟᴇ* :\n└  ◦  .ʀᴇɢ ᴋɪᴋᴜᴄʜᴀɴᴊ@ɢᴍᴀɪʟ.ᴄᴏᴍ\n\nᴋɪᴋᴜ - ᴡᴀʙᴏᴛ ᴍᴀᴅᴇ ʙʏ xhclinton`
     }[type]
     if (msgg) return conn.reply(m.chat, msgg, m, {
 contextInfo: {
